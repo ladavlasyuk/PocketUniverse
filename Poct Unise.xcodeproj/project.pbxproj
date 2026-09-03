@@ -261,7 +261,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "Poct Unise/Poct Unise.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 17;
+				CURRENT_PROJECT_VERSION = 18;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Poct Unise/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "PocketUniverse CosmicSandbox";
@@ -275,7 +275,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.7;
+				MARKETING_VERSION = 1.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.PocketUniverseCosmicSandbox;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -297,7 +297,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "Poct Unise/Poct Unise.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 17;
+				CURRENT_PROJECT_VERSION = 18;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Poct Unise/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "PocketUniverse CosmicSandbox";
@@ -311,7 +311,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.7;
+				MARKETING_VERSION = 1.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.PocketUniverseCosmicSandbox;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -449,7 +449,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 17;
+				CURRENT_PROJECT_VERSION = 18;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = PoctUniseNotificationService/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "PocketUniverse CosmicSandbox";
@@ -460,8 +460,8 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.7;
-				PRODUCT_BUNDLE_IDENTIFIER = com.PocketUniverseCosmicSandbox.PocketUniverseNotificationService;
+				MARKETING_VERSION = 1.8;
+				PRODUCT_BUNDLE_IDENTIFIER = com.PocketUniverseCosmicSandbox.PoctUniseNotificationService;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -477,7 +477,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 17;
+				CURRENT_PROJECT_VERSION = 18;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = PoctUniseNotificationService/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "PocketUniverse CosmicSandbox";
@@ -488,8 +488,8 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.7;
-				PRODUCT_BUNDLE_IDENTIFIER = com.PocketUniverseCosmicSandbox.PocketUniverseNotificationService;
+				MARKETING_VERSION = 1.8;
+				PRODUCT_BUNDLE_IDENTIFIER = com.PocketUniverseCosmicSandbox.PoctUniseNotificationService;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
