@@ -265,6 +265,9 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Poct Unise/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "PocketUniverse CosmicSandbox";
+                INFOPLIST_KEY_NSCameraUsageDescription = "Camera access lets you take a profile photo and use the camera on pages you open in the app";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Photo library access lets you choose a profile photo and attach images on pages you open in the app";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is used when a page you open in the app records audio";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
@@ -301,6 +304,9 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Poct Unise/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "PocketUniverse CosmicSandbox";
+                INFOPLIST_KEY_NSCameraUsageDescription = "Camera access lets you take a profile photo and use the camera on pages you open in the app";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Photo library access lets you choose a profile photo and attach images on pages you open in the app";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is used when a page you open in the app records audio";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
