@@ -20,7 +20,8 @@ enum AppConstants {
 
     static let gcdRetryDelay: TimeInterval = 1.0
     static let mergeWaitInterval: TimeInterval = 3.0
-    static let launchLoaderDuration: TimeInterval = 15.0
+    static let configRequestTimeouts: [TimeInterval] = [15, 15, 30]
+    static let launchLoaderDuration: TimeInterval = 15 + 15 + 30
 
     static let pushPermissionRetryDelay: TimeInterval = 60 * 60 * 24 * 3
 
