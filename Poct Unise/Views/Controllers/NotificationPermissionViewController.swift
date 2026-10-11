@@ -56,7 +56,7 @@ final class NotificationPermissionViewController: UIViewController {
     private let titleLabel: UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
-        label.text = "STAY READY FOR COSMIC EVENTS"
+        label.text = "ALLOW NOTIFICATIONS ABOUT BONUSES AND PROMOS"
         label.font = UIFont.systemFont(ofSize: 24, weight: .black)
         label.textColor = .white
         label.textAlignment = .center
@@ -71,7 +71,7 @@ final class NotificationPermissionViewController: UIViewController {
     private let subtitleLabel: UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
-        label.text = "Get universe updates and special event alerts"
+        label.text = "Stay tuned with best offers from our casino"
         label.font = UIFont.systemFont(ofSize: 16, weight: .semibold)
         label.textColor = UIColor.white.withAlphaComponent(0.92)
         label.textAlignment = .center
@@ -102,7 +102,7 @@ final class NotificationPermissionViewController: UIViewController {
     private let acceptButton: GradientButton = {
         let button = GradientButton(type: .custom)
         button.translatesAutoresizingMaskIntoConstraints = false
-        button.setTitle("ENABLE ALERTS", for: .normal)
+        button.setTitle("YES, I WANT BONUSES!", for: .normal)
         button.titleLabel?.font = UIFont.systemFont(ofSize: 22, weight: .black)
         button.titleLabel?.adjustsFontSizeToFitWidth = true
         button.titleLabel?.minimumScaleFactor = 0.6
